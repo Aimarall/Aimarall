@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
 div {
     border: 5px dashed rgb(143, 143, 143);
     border-radius: 6px;
@@ -89,10 +90,12 @@ h3 {
     text-align: center;
 }
 .example-5 {
+    font-family: 'Amatic SC', cursive;
     background-color: rgb(255, 157, 173);
     padding: 4px;
 }
 .example-6 {
+    font-family: 'Amatic SC', cursive;
     background-color: rgb(1, 201, 1);
     padding: 4px;
 }
