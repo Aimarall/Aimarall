@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&display=swap');
 div {
     border: 5px dashed rgb(143, 143, 143);
     border-radius: 6px;
@@ -70,16 +71,19 @@ header {
     padding: 20px;
 }
 h1 {
+    font-family: 'Bungee Outline', cursive;
     color: rgb(24, 21, 17);
     padding: 10px;
     text-align: center; 
 }
 h2 {  
+    font-family: 'Bungee Outline', cursive;
     color: black;
     padding: 10px;
     text-align: center;
 }
 h3 {
+    font-family: 'Bungee Outline', cursive;
     color: black;
     padding: 10px;
     text-align: center;
