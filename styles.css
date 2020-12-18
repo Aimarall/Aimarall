@@ -74,14 +74,12 @@ h1 {
     padding: 10px;
     text-align: center; 
 }
-h2 {
-    background-color: rgb(238, 182, 0);
+h2 {  
     color: black;
     padding: 10px;
     text-align: center;
 }
 h3 {
-    background-color: rgb(214, 211, 0);
     color: black;
     padding: 10px;
     text-align: center;
