@@ -101,8 +101,13 @@ h3 {
 }
 footer {
     display: flex;
+    border: 1px solid black;
+    width: 150px;
+    padding-left: 26px;
+    margin-top: 10px;
 }
 footer a {
+   
     color: black;
 }
 @media (max-width: 600px) {
