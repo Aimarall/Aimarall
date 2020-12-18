@@ -89,9 +89,11 @@ h3 {
 }
 .example-5 {
     background-color: rgb(255, 157, 173);
+    padding: 4px;
 }
 .example-6 {
     background-color: rgb(1, 201, 1);
+    padding: 4px;
 }
 @media (max-width: 600px) {
     div {
