@@ -6,29 +6,34 @@ ul {
 }
 ul li {
     list-style-type: none; 
-    
+   
 }
-li a {
+li a { 
+    text-decoration: none;
     padding: 10px;
-    color: gainsboro;
+    color: rgb(158, 158, 158);
 }
 .example-1:hover {
     background-color: rgb(170, 179, 255);
     color: black;
     border-radius: 5px;
+    text-decoration: underline;
 }
 .example-2:hover {
     background-color: rgb(127, 140, 252);
     color: rgb(255, 251, 0);
     border-radius: 5px;
+    text-decoration: underline;
 }
 .example-3:hover {
     background-color: rgb(99, 114, 253);
     color: rgb(0, 255, 64);
     border-radius: 5px;
+    text-decoration: underline;
 }
 .example-4:hover {
     background-color: rgb(34, 56, 255);
     color: rgb(141, 0, 0);
     border-radius: 5px;
+    text-decoration: underline;
 }
