@@ -99,6 +99,13 @@ h3 {
     background-color: rgb(1, 201, 1);
     padding: 4px;
 }
+.div-1 {
+    width: 80px;
+    height: 80px;
+    background-color: blue;
+    
+    border-radius: 40px;
+}
 footer {
     display: flex;
     border: 1px solid black;
