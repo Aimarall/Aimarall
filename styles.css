@@ -1,3 +1,6 @@
+div {
+    border: 5px dashed rgb(143, 143, 143);
+}
 nav ul {
     display: flex;
 }
