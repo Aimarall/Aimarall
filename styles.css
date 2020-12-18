@@ -15,4 +15,5 @@ li a {
 a:hover {
     background-color: rgb(170, 179, 255);
     color: black;
+    border-radius: 5px;
 }
