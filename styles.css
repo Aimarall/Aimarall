@@ -73,6 +73,7 @@ h1 {
     background-color:  rgb(251, 255, 0);
     color: rgb(24, 21, 17);
     padding: 10px;
+    text-align: center;
 }
 @media (max-width: 600px) {
     div {
