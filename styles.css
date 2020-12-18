@@ -99,6 +99,12 @@ h3 {
     background-color: rgb(1, 201, 1);
     padding: 4px;
 }
+footer {
+    display: flex;
+}
+footer a {
+    color: black;
+}
 @media (max-width: 600px) {
     div {
         background-color: rgb(0, 247, 255);
