@@ -2,6 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
 strong {
     color: white;
+    padding: 10px;
+    margin-bottom: 20px;
 }
 div {
     border: 5px dashed rgb(143, 143, 143);
