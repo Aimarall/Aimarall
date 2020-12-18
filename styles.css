@@ -1,6 +1,18 @@
 nav ul {
     display: flex;
 }
+ul {
+    
+}
 ul li {
-    list-style-type: none;
+    list-style-type: none; 
+    
+}
+li a {
+    padding: 10px;
+    color: gainsboro;
+}
+a:hover {
+    background-color: rgb(170, 179, 255);
+    color: black;
 }
