@@ -72,6 +72,9 @@ button {
     margin-left: 10px;
     margin-bottom: 10px;
 }
+button:focus {
+    outline: auto;
+}
 header {
     background-color: gray;
     padding: 20px;
